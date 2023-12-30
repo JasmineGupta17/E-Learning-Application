@@ -35,7 +35,7 @@ To get started with the Java E-Learning Application:
    - Set up a MySQL database and update connection details in the project.
 
 4. **Run the Application:**
-   - Run the project in NetBeans to start the application.
+   - Run the project in NetBeans to start the application by first running server and then run home_page.
 
 ## Contributing
 

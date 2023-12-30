@@ -37,10 +37,6 @@ To get started with the Java E-Learning Application:
 4. **Run the Application:**
    - Run the project in NetBeans to start the application.
 
-5. **Access the Website:**
-   - Navigate to `http://localhost:8080/online-examination` in your web browser.
-
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests with enhancements.
